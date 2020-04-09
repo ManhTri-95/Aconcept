@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>minus</title>
+    <desc>Created with Sketch.</desc>
+    <g id="02.PRODUCT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product-detail-1" transform="translate(-961.000000, -479.000000)" fill-rule="nonzero">
+            <g id="Group-19" transform="translate(0.000000, -30.000000)">
+                <g id="Group-18" transform="translate(961.000000, 478.000000)">
+                    <g id="Group-5" transform="translate(0.000000, 31.000000)">
+                        <g id="minus">
+                            <path d="M11,0 C4.93476923,0 0,4.93434615 0,11 C0,17.0656538 4.93476923,22 11,22 C17.0652308,22 22,17.0656538 22,11 C22,4.93434615 17.0652308,0 11,0 Z M11,21.1538462 C5.40142308,21.1538462 0.846153846,16.5985769 0.846153846,11 C0.846153846,5.40142308 5.40142308,0.846153846 11,0.846153846 C16.5985769,0.846153846 21.1538462,5.40142308 21.1538462,11 C21.1538462,16.5985769 16.5985769,21.1538462 11,21.1538462 Z" id="Shape" fill="#6C6C6C"></path>
+                            <path d="M16.5,10.5769231 L5.5,10.5769231 C5.26646154,10.5769231 5.07692308,10.7660385 5.07692308,11 C5.07692308,11.2339615 5.26646154,11.4230769 5.5,11.4230769 L16.5,11.4230769 C16.7335385,11.4230769 16.9230769,11.2339615 16.9230769,11 C16.9230769,10.7660385 16.7335385,10.5769231 16.5,10.5769231 Z" id="Path" fill="#000000"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

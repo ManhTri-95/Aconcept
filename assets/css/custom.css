@@ -1,0 +1,361 @@
+.t4-detail{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    margin-bottom: 20px;
+   
+}
+
+    .detail-text{
+    max-width: 700px;
+    padding: 0 15px ;
+    }
+.img-big-detail{
+    object-fit: cover;
+    position: relative;
+    width: 100% !important;
+    height: auto;
+}
+
+.items-design .title-design{
+    padding-top: 30px;
+}
+
+.detail-contai{
+    margin: 0;
+
+}
+.info-designer{
+    margin-bottom: 30px;
+} 
+.info-designer .col-md-4{
+    justify-content: center;
+    align-items: center;
+    display: flex
+}
+.list-items-design{
+    border-top: 1px solid #c1c1c1;
+    padding-top: 20px;
+    margin-top: 50px;
+}
+.more a{
+    display: inline-block;
+    position: relative;
+    font-weight: 600;
+    color: #000;
+}
+
+.meeting-design {
+    padding: 15px 50px;
+    
+}
+
+.more > a > i {
+    position: relative;
+    top: 2px;
+    display: inline-block;
+    transition: all 0.3s ease-in-out;
+    margin-left: 5px;
+}
+
+.more > a:hover {
+    color: #9D0E01
+}
+
+.more > a:hover > i {
+    transform: translateX(5px);
+    color: #9D0E01
+}
+
+.desc-info{
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+}
+.no-gutter > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+}
+
+
+/* form cart-register */
+.modal-dialog-cart{
+    max-width: 710px;
+    margin: 50px auto 0;
+}
+.title-design-cart{
+    font-weight: 600;
+}
+.border-left{
+    border-right: 1px solid #232323;
+}
+.modal-dialog-cart .input-cart{
+    padding: 5px;
+    border: none;
+    border-bottom: 1px solid #979797;
+    background-color: #fff;
+    width: 100%;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+.switchform-cart{
+    text-align: right;
+    color: #4267B2;
+}
+.switchform p:hover{
+    color: #444444;;
+}
+.btn.register-cart{
+    width: 100%;
+    font-weight: 400;
+    background-color: #232323;
+    color: #fff;
+    padding: 0;
+}
+.btn.register-cart:hover{
+    background-color: #9D0E01;
+    border-color: #9D0E01;
+}
+.btn.register-cart-1{
+    width: 100%;
+    font-weight: 400;
+}
+.fb.fbregister-cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    background-color: #4267B2;
+    text-align: center;
+    height: 40px;
+    padding: 0 25px;
+    font-weight: 400;
+}
+.fb-gg{
+    margin-bottom: 20px;
+}
+.fb-gg a:hover{
+    background-color: #232323;
+    border-color: #9D0E01;
+    color: #fff !important; 
+}
+.gg.ggregister-cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    background-color:  #9D0E01;
+    text-align: center;
+    height: 40px;
+    padding: 0 25px;
+    font-weight: 400;
+}
+.formregister-cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    padding: 27px 0;
+}
+.title-formregister-cart{
+    font-weight: 600;
+    font-size: 16px;
+   
+}
+.text-danger{
+    color: #9D0E01;
+}
+
+.add-product-success{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    background-color: #008000;
+    text-align: center;
+    height: 40px;
+}
+
+.icon-facebook,
+.icon-google{
+    margin-right: 5px;
+    font-size: 18px;
+}
+.modal .close-resgiter-cart {
+    border-radius: 100%;
+    background-color: #fff;
+    border: 1px solid #9D0E01;
+    line-height: 38px;
+    color: #9D0E01;
+    top: -20px;
+    right: -20px; }
+
+/*---------------- page-career ----------------*/
+h2.mb-20{
+    margin-bottom: 40px; 
+}
+.divcareer{
+    padding-bottom: 40px;
+}
+.title-career{
+    display: flex;
+}
+.container-career{
+    border-top: 2px solid #C1C1C1;
+    padding-top: 40px;
+}
+.list-description{
+    padding-left:15px;
+}
+.job-description{
+    padding-bottom: 30px;
+}
+.description,
+.content-career{
+    color: #979797;
+}
+.cv{
+    margin-bottom: 10px;
+}
+.text-career-center{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+.title-aconcept{
+    font-size: 34px;
+} 
+.content-career{
+    text-align: center;
+}
+
+.max800{
+    max-width: 670px;
+    margin: 0 auto;
+    padding: 30px 60px;
+    border: 1px solid #979797;
+    margin-bottom: 50px;
+}
+.title-career-info{
+    display: block;
+    color: #979797;
+    padding-left: 5px;
+}
+.item select{
+    padding-left: 0;
+}
+.select-career{
+    font-size: 14px;
+    font-weight: 600;
+    width: 100%;
+    padding-left: 5px !important;
+}
+.search-career{
+    background-color: #979797;
+    color: #fff;
+    border: 1px solid #979797;
+    border-radius: 4px;
+}
+.wrap-list-career{
+    border-top: 1px solid #979797;
+    max-width: 670px;
+    margin: 0 auto;
+   
+}
+.wrap-list-career .col-4{
+    padding-top : 20px;
+    padding-bottom: 20px;
+}
+.titlediv{
+    text-transform: uppercase;
+    border-bottom: 1px solid #C1C1C1;
+}
+ul.list-career-info li{
+    border-bottom: 1px solid #C1C1C1 !important;
+    border: none;
+    cursor: pointer;
+    color: #000;
+    font-weight: 600;
+}
+
+.active, .my-career-info:hover{
+    color: #9D0E01;
+    border-right: 5px solid #979797;
+}
+
+@media only screen and (max-width : 767px) {
+    section.career{
+        padding-top: 0;
+    }
+    form.max800 .row{
+        display: block;
+    }
+    form.max800 .row .col-5{
+        display: contents;
+        padding-bottom: 30px;
+    }
+    form.max800 .row .col-5 .item{
+        padding-bottom: 20px;
+    }
+    .wrap-list-career{
+        padding: 5px;
+    }
+    section.sec-b{
+        padding-bottom: 0px;
+    }
+    .info-designer .row{
+        margin-bottom: 30px;
+    }
+    .info-designer .column-reverse{
+        flex-direction: column-reverse;
+    }
+    .list-designer-detail .designer{
+        padding-bottom: 50px;
+    }
+    .page404-icon{
+        padding-top: 20px !important;
+    }}
+
+.page404-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+.icon-page404{
+    font-size : 70px;
+    color: #9D0E01;
+}
+.page404-text{
+    padding-top: 30px;
+}
+.page404-text h1{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 600;
+}
+.page404-text p{
+    color: #444444;
+    font-weight: 400;
+}
+.page404-btn{
+    text-align: center;
+}
+.page404-btn a{
+    background-color: #6c6c6c;
+    color: #fff;
+    border: #6c6c6c;
+    height: auto;
+}
+
+.page404-btn > a > i {
+    position: relative;
+    top: 2px;
+    display: inline-block;
+    transition: all 0.3s ease-in-out;
+    margin-right: 5px;
+}
+.page404-btn > a:hover > i {
+    transform: translateX(-5px);
+}
